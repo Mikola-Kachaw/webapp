@@ -11,7 +11,7 @@ dp = Dispatcher()
 
 web_app_button = InlineKeyboardButton(
     text='Web App Приложение',
-    web_app=WebAppInfo(url='')
+    web_app=WebAppInfo(url='htpps://mikola-kachaw.github.io')
 )
 
 # Создаем объект инлайн-клавиатуры
